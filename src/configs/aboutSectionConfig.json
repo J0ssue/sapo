@@ -1,0 +1,20 @@
+{
+  "title": "sapo",
+  "brand": "marca",
+  "textContent": [
+    {
+      "text": "Estamos consigo desde 1995, mas ainda mal começamos a tocar o futuro.",
+      "hasWhiteBackground": true
+    },
+    {
+      "text": "Apostamos na credibilidade, na criatividade, na inovaçao, na tecnologia e na proximidade.",
+      "hasWhiteBackground": false
+    },
+    {
+      "text": "Somos o SAPO,",
+      "highlightedText": "vamos tomar a sua vida mais simples, mais informada, mais divertida, mais pratica, ",
+      "continuingText": "aqui e em",
+      "hasWhiteBackground": false
+    }
+  ]
+}
