@@ -21,7 +21,7 @@ const Header = (props) => {
           <BrandImage src="https://imgs.sapo.pt/marcasapo/imgs/sapo_symbol.png" />
           <BrandText>sapo</BrandText>
         </BrandContainer>
-        <BurgerMenu>
+        <BurgerMenu onClick={props.onMenuClick}>
           <div></div>
         </BurgerMenu>
         <MenuDesktop>
